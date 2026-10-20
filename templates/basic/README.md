@@ -4,6 +4,13 @@ A minimal Kirie project using GDScript, Vite, and the text IPC lane.
 
 ## Setup
 
+The project pins Godot, Node.js, and pnpm in `mise.toml`. With
+[mise](https://mise.jdx.dev/) installed, install that toolchain first:
+
+```sh
+mise install
+```
+
 Install JavaScript dependencies and check the local Godot environment:
 
 ```sh
