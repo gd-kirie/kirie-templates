@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@12.14.0",
+  "packageManager": "pnpm@12.15.0",
   "scripts": {
     "build": "kirie build",
     "dev": "kirie dev",
@@ -16,6 +16,6 @@
     "@types/node": "26.6.5",
     "kirie": "0.15.0",
     "typescript": "6.0.3",
-    "vite": "8.3.4"
+    "vite": "8.3.5"
   }
 }
